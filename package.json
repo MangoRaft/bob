@@ -1,0 +1,23 @@
+{
+  "name": "bob-the-builder",
+  "version": "0.0.1",
+  "description": "Bob The Builder - Docker Heroku build pack",
+  "main": "./lib/builder.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MangoRaft/bob.git"
+  },
+  "dependencies": {
+    "tar-fs": "1.4.2",
+    "dockerode": "2.0.7"
+  },
+  "keywords": [
+    "docker",
+    "build",
+    "private",
+    "registry"
+  ],
+  "homepage": "https://github.com/MangoRaft/bob",
+  "author": "Tim <mangoraft@gmail.com>",
+  "license": "MIT"
+}

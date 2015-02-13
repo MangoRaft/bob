@@ -1,6 +1,6 @@
 {
   "name": "bob-the-builder",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Bob The Builder - Docker Heroku build pack",
   "main": "./lib/builder.js",
   "repository": {
